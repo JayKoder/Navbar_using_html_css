@@ -50,7 +50,7 @@ nav ul li a {
 a.active,a:hover{
 	background: #1b9bff;
 	transition: .5s;
-	/* hovers over the remaining atags(within li tags) without the class.active*/
+	/* hovers over the remaining atags(within li tags) without the class.active while class.active has fixed background*/
 }
 
 .checkbtn {
